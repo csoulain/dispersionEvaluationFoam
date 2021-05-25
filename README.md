@@ -5,7 +5,7 @@
 ************* dispersionEvaluationFoam for OpenFOAM ********************
 **************************************************************************
 
-* General Informations
+## General Informations
 
 - dispersionEvaluationFoam is an OpenFOAM package to compute the dispersion
   tensor of a porous sample
