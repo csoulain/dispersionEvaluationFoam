@@ -1,9 +1,6 @@
 # dispersionEvaluationFoam
 
 
-**************************************************************************
-             dispersionEvaluationFoam for OpenFOAM  
-**************************************************************************
 
 ## General Informations
 
@@ -15,9 +12,9 @@
   derived by Carbonell and Whitaker (1983)
 
 - The package contains:
-        1. The core solver
-        2. The associated boundary condition
-        3. a tutorial
+1. The core solver
+2. The associated boundary condition
+3. a tutorial
 
 ## History
 
