@@ -2,7 +2,7 @@
 
 
 **************************************************************************
-************* dispersionEvaluationFoam for OpenFOAM ********************
+             dispersionEvaluationFoam for OpenFOAM  
 **************************************************************************
 
 ## General Informations
@@ -15,25 +15,23 @@
   derived by Carbonell and Whitaker (1983)
 
 - The package contains:
-        * The core solver
-        * The associated boundary condition
-        * a tutorial
+        1. The core solver
+        2. The associated boundary condition
+        3. a tutorial
 
-* History
+## History
 
 First development in 2014 by C.S. First release on May 25,2021.
 
-* Install
+
+## Installation instructions :
 
 - This toolbox has been tested on OpenFOAM v7 only
 
 - It only needs a standard OpenFOAM installation from www.openfoam.org
 
-
 - Read the COPYING_OPENFOAM file for information about OpenFOAM and this
   toolbox Copyrights.
-
-* Installation instructions :
 
 - First, source the OpenFOAM configuration file, i.e. (example for ubuntu
   version) :
@@ -42,7 +40,7 @@ First development in 2014 by C.S. First release on May 25,2021.
 
 - then in the "porousMedia4Foam" directory, run :
 
-       	   wmake
+      wmake
 
   to install the package.
 
