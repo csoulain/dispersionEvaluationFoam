@@ -1,0 +1,5 @@
+BboundaryCondition/BboundaryFvPatchVectorField.C
+fBoundaryCondition/fBoundaryConditionFvPatchVectorField.C
+dispersionEvaluationFoam.C
+
+EXE = $(FOAM_USER_APPBIN)/dispersionEvaluationFoam
