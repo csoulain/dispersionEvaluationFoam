@@ -35,7 +35,7 @@ First development in 2014 by C.S. First release on May 25,2021.
 
   	  source /opt/openfoamv7/etc/bashrc
 
-- then in the "porousMedia4Foam" directory, run :
+- then in the "dispersionEvaluationFoam" directory, run :
 
       wmake
 
